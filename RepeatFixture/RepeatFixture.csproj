@@ -4,6 +4,12 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>RepeateFixture</Title>
+    <Company />
+    <Authors>Greg-Vogel</Authors>
+    <PackageProjectUrl>https://github.com/Greg-Vogel/RepeatFixture</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Greg-Vogel/RepeatFixture</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
