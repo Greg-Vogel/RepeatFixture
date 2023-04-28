@@ -1,0 +1,59 @@
+﻿[
+  {
+    DepartmentId: Guid_1,
+    DepartmentName: DepartmentName_387554857,
+    BuildingFloor: 29190,
+    Employees: [
+      {
+        MemberId: Guid_2,
+        FirstName: FirstName_1347085244,
+        LastName: LastName_490961781,
+        Age: 226,
+        BirthDate: Date_1,
+        IsActive: true,
+        FavoriteNumbers: [
+          -592301776
+        ],
+        LastLoginTimestamp: DateTime_1
+      }
+    ]
+  },
+  {
+    DepartmentId: Guid_3,
+    DepartmentName: DepartmentName_1413138685,
+    BuildingFloor: -5047,
+    Employees: [
+      {
+        MemberId: Guid_4,
+        FirstName: FirstName_225185425,
+        LastName: LastName_1516545609,
+        Age: 93,
+        BirthDate: Date_2,
+        IsActive: false,
+        FavoriteNumbers: [
+          -1617885604
+        ],
+        LastLoginTimestamp: DateTime_2
+      }
+    ]
+  },
+  {
+    DepartmentId: Guid_5,
+    DepartmentName: DepartmentName_291238866,
+    BuildingFloor: 26251,
+    Employees: [
+      {
+        MemberId: Guid_6,
+        FirstName: FirstName_1250769253,
+        LastName: LastName_394645790,
+        Age: 215,
+        BirthDate: Date_3,
+        IsActive: true,
+        FavoriteNumbers: [
+          495985782
+        ],
+        LastLoginTimestamp: DateTime_3
+      }
+    ]
+  }
+]

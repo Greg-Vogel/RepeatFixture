@@ -1,0 +1,20 @@
+﻿[
+  {
+    CompanyId: Guid_1,
+    CompanyName: CompanyName_1694995725,
+    Address1: Address1_441157137,
+    ZipCode: 735465337
+  },
+  {
+    CompanyId: Guid_2,
+    CompanyName: CompanyName_573095906,
+    Address1: Address1_1466740965,
+    ZipCode: -1761049168
+  },
+  {
+    CompanyId: Guid_3,
+    CompanyName: CompanyName_1598679734,
+    Address1: Address1_344841146,
+    ZipCode: -639149349
+  }
+]

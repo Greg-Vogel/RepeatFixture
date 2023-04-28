@@ -1,0 +1,38 @@
+﻿[
+  {
+    MemberId: Guid_1,
+    FirstName: FirstName_2000024382,
+    LastName: LastName_1143900919,
+    Age: 49,
+    BirthDate: Date_1,
+    IsActive: true,
+    FavoriteNumbers: [
+      1245240911
+    ],
+    LastLoginTimestamp: DateTime_1
+  },
+  {
+    MemberId: Guid_2,
+    FirstName: FirstName_878124563,
+    LastName: LastName_22001100,
+    Age: 171,
+    BirthDate: Date_2,
+    IsActive: false,
+    FavoriteNumbers: [
+      123341092
+    ],
+    LastLoginTimestamp: DateTime_2
+  },
+  {
+    MemberId: Guid_3,
+    FirstName: FirstName_1903708391,
+    LastName: LastName_1047584928,
+    Age: 37,
+    BirthDate: Date_3,
+    IsActive: true,
+    FavoriteNumbers: [
+      -1148924923
+    ],
+    LastLoginTimestamp: DateTime_3
+  }
+]

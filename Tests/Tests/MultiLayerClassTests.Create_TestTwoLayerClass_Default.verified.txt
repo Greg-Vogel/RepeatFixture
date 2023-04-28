@@ -1,0 +1,5 @@
+﻿{
+  DepartmentId: Guid_1,
+  DepartmentName: DepartmentName_1706052407,
+  BuildingFloor: -30836
+}

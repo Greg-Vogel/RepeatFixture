@@ -1,0 +1,12 @@
+﻿{
+  MemberId: Guid_1,
+  FirstName: FirstName_93582882,
+  LastName: LastName_949706345,
+  Age: 199,
+  BirthDate: Date_1,
+  IsActive: false,
+  FavoriteNumbers: [
+    848366351
+  ],
+  LastLoginTimestamp: DateTime_1
+}

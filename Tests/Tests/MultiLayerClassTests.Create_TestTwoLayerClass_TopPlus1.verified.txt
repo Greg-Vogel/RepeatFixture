@@ -1,0 +1,19 @@
+﻿{
+  DepartmentId: Guid_1,
+  DepartmentName: DepartmentName_1706052407,
+  BuildingFloor: -30836,
+  Employees: [
+    {
+      MemberId: Guid_2,
+      FirstName: FirstName_746522020,
+      LastName: LastName_1602645483,
+      Age: 21,
+      BirthDate: Date_1,
+      IsActive: false,
+      FavoriteNumbers: [
+        -1501305492
+      ],
+      LastLoginTimestamp: DateTime_1
+    }
+  ]
+}

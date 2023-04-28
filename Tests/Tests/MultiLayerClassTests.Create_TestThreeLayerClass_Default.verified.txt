@@ -1,0 +1,6 @@
+﻿{
+  CompanyId: Guid_1,
+  CompanyName: CompanyName_398611539,
+  Address1: Address1_1652450127,
+  ZipCode: 1358141925
+}

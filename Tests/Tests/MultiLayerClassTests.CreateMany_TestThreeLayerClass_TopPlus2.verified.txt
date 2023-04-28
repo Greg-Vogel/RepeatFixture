@@ -1,0 +1,119 @@
+﻿[
+  {
+    CompanyId: Guid_1,
+    CompanyName: CompanyName_1694995725,
+    Address1: Address1_441157137,
+    ZipCode: 735465337,
+    CEO: {
+      MemberId: Guid_2,
+      FirstName: FirstName_878124563,
+      LastName: LastName_22001100,
+      Age: 171,
+      BirthDate: Date_1,
+      IsActive: false,
+      FavoriteNumbers: [
+        123341092
+      ],
+      LastLoginTimestamp: DateTime_1
+    },
+    Departments: [
+      {
+        DepartmentId: Guid_3,
+        DepartmentName: DepartmentName_262538908,
+        BuildingFloor: 25375,
+        Employees: [
+          {
+            MemberId: Guid_4,
+            FirstName: FirstName_100169476,
+            LastName: LastName_1391529660,
+            Age: 78,
+            BirthDate: Date_2,
+            IsActive: false,
+            FavoriteNumbers: [
+              -1492869655
+            ],
+            LastLoginTimestamp: DateTime_2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    CompanyId: Guid_5,
+    CompanyName: CompanyName_573095906,
+    Address1: Address1_1466740965,
+    ZipCode: -1761049168,
+    CEO: {
+      MemberId: Guid_6,
+      FirstName: FirstName_1903708391,
+      LastName: LastName_1047584928,
+      Age: 37,
+      BirthDate: Date_3,
+      IsActive: true,
+      FavoriteNumbers: [
+        -1148924923
+      ],
+      LastLoginTimestamp: DateTime_3
+    },
+    Departments: [
+      {
+        DepartmentId: Guid_7,
+        DepartmentName: DepartmentName_1288122736,
+        BuildingFloor: -8862,
+        Employees: [
+          {
+            MemberId: Guid_8,
+            FirstName: FirstName_1125753304,
+            LastName: LastName_269629841,
+            Age: 200,
+            BirthDate: Date_4,
+            IsActive: true,
+            FavoriteNumbers: [
+              -370969836
+            ],
+            LastLoginTimestamp: DateTime_4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    CompanyId: Guid_9,
+    CompanyName: CompanyName_1598679734,
+    Address1: Address1_344841146,
+    ZipCode: -639149349,
+    CEO: {
+      MemberId: Guid_10,
+      FirstName: FirstName_781808572,
+      LastName: LastName_2073168756,
+      Age: 159,
+      BirthDate: Date_5,
+      IsActive: false,
+      FavoriteNumbers: [
+        27025101
+      ],
+      LastLoginTimestamp: DateTime_5
+    },
+    Departments: [
+      {
+        DepartmentId: Guid_11,
+        DepartmentName: DepartmentName_166222917,
+        BuildingFloor: 22436,
+        Employees: [
+          {
+            MemberId: Guid_12,
+            FirstName: FirstName_3853485,
+            LastName: LastName_1295213669,
+            Age: 67,
+            BirthDate: Date_6,
+            IsActive: false,
+            FavoriteNumbers: [
+              1396553661
+            ],
+            LastLoginTimestamp: DateTime_6
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+﻿{
+  CompanyId: Guid_1,
+  CompanyName: CompanyName_398611539,
+  Address1: Address1_1652450127,
+  ZipCode: 1358141925,
+  CEO: {
+    MemberId: Guid_2,
+    FirstName: FirstName_1215482701,
+    LastName: LastName_2071606164,
+    Age: 77,
+    BirthDate: Date_1,
+    IsActive: true,
+    FavoriteNumbers: [
+      1970266170
+    ],
+    LastLoginTimestamp: DateTime_1
+  },
+  Departments: [
+    {
+      DepartmentId: Guid_3,
+      DepartmentName: DepartmentName_1831068356,
+      BuildingFloor: -27021
+    }
+  ]
+}
