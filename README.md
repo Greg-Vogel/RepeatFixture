@@ -5,10 +5,14 @@
 ## How To Use
 
 To create a single instance of a class using default rules:
-```RepeatFixture.Create<ClassName>();```
+```
+RepeatFixture.Create<ClassName>();
+```
 
 To create a multiple instances of a class using default rules:
-```RepeatFixture.CreateMany<ClassName>();```
+```
+RepeatFixture.CreateMany<ClassName>();
+```
 
 Rules available to pass in:
  - seed: This lets you vary the starting point for randomly generating values.
@@ -17,4 +21,6 @@ Rules available to pass in:
 
 
 If the Create methods are populating classes that you do not want, you can call the following method to add the namespaces of classes that CAN be populated (this is a whitelist):
-```RepeateFixture.RegisterNamespaces(params string[] namespaces);```
+```
+RepeateFixture.RegisterNamespaces(params string[] namespaces);
+```
